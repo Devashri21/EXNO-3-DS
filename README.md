@@ -5,9 +5,13 @@ To read the given data and perform Feature Encoding and Transformation process a
 
 # ALGORITHM:
 STEP 1:Read the given Data.
+
 STEP 2:Clean the Data Set using Data Cleaning Process.
+
 STEP 3:Apply Feature Encoding for the feature in the data set.
+
 STEP 4:Apply Feature Transformation for the feature in the data set.
+
 STEP 5:Save the data to the file.
 
 # FEATURE ENCODING:
@@ -31,7 +35,56 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+[Data_to_transform]
+
+![image](https://github.com/user-attachments/assets/2eed22ee-ed3d-46e3-8d15-18038c5157b7)
+
+![image](https://github.com/user-attachments/assets/33a66acc-d456-413f-94a5-3aa3e178429b)
+
+
+  # 1. FUNCTION TRANSFORMATION
+• Log Transformation
+
+![image](https://github.com/user-attachments/assets/0b24492a-4dbf-4370-803c-a38e3813cfae)
+
+• Reciprocal Transformation
+
+![image](https://github.com/user-attachments/assets/e21eb199-033d-4646-9907-bbaafb980044)
+
+• Square Root Transformation
+
+![image](https://github.com/user-attachments/assets/e34c8976-f427-46d2-80b6-7e71d640ac29)
+
+• Square Transformation
+
+![image](https://github.com/user-attachments/assets/ecd16fae-02ac-4040-ba2a-258478353482)
+
+  # 2. POWER TRANSFORMATION
+• Boxcox method
+
+![image](https://github.com/user-attachments/assets/8668e51c-108c-4456-a97f-ffd04530b38f)
+
+• Yeojohnson method
+
+![image](https://github.com/user-attachments/assets/6be648b5-327f-4c65-9b60-9627f04e7b12)
+
+![image](https://github.com/user-attachments/assets/0280926a-ac84-44f8-a141-b258aaff95d7)
+
+[data.csv]
+![image](https://github.com/user-attachments/assets/a0ba19d7-3fef-4c0c-993a-5e86f0ded4dc)
+
+![image](https://github.com/user-attachments/assets/be2540ed-c2c2-4633-8536-1839bda540cc)
+
+![image](https://github.com/user-attachments/assets/fef0d2da-af08-4d79-b9f0-a34589fdd4c0)
+
+[Encoding data.csv]
+![image](https://github.com/user-attachments/assets/3b1a183e-14a8-4dc3-a232-0e6a15b24dcf)
+
+![image](https://github.com/user-attachments/assets/bc3c907f-3f05-410d-a4fb-e44644e314dc)
+
+
+
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
