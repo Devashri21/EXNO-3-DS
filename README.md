@@ -35,7 +35,7 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-[Data_to_transform]
+## [Data_to_transform]
 
 ![image](https://github.com/user-attachments/assets/2eed22ee-ed3d-46e3-8d15-18038c5157b7)
 
@@ -70,22 +70,39 @@ We use this categorical data encoding technique when the features are nominal(do
 
 ![image](https://github.com/user-attachments/assets/0280926a-ac84-44f8-a141-b258aaff95d7)
 
-[data.csv]
+![image](https://github.com/user-attachments/assets/4d18c4e6-a478-4c75-8bcd-6803c7fe9121)
+
+![image](https://github.com/user-attachments/assets/3cc6bd98-5540-43d2-9604-8af9ec3a68b3)
+
+![image](https://github.com/user-attachments/assets/cf640e68-7cc5-4293-8211-b6988b68994d)
+
+
+## [data.csv]
+
 ![image](https://github.com/user-attachments/assets/a0ba19d7-3fef-4c0c-993a-5e86f0ded4dc)
 
 ![image](https://github.com/user-attachments/assets/be2540ed-c2c2-4633-8536-1839bda540cc)
 
 ![image](https://github.com/user-attachments/assets/fef0d2da-af08-4d79-b9f0-a34589fdd4c0)
 
-[Encoding data.csv]
+## [Encoding data.csv]
+
 ![image](https://github.com/user-attachments/assets/3b1a183e-14a8-4dc3-a232-0e6a15b24dcf)
 
 ![image](https://github.com/user-attachments/assets/bc3c907f-3f05-410d-a4fb-e44644e314dc)
 
+![image](https://github.com/user-attachments/assets/f7ab50ff-1855-43fd-b396-af49e869a302)
 
+![image](https://github.com/user-attachments/assets/0d4d0cba-527c-4116-92d3-9eed5b87d3cf)
 
+![image](https://github.com/user-attachments/assets/19310903-8d30-45a3-a1f1-e7ef52261b29)
+
+![image](https://github.com/user-attachments/assets/b5abcc30-90dd-4be2-bb87-e6471c0db539)
+
+![image](https://github.com/user-attachments/assets/ebdd3d09-f630-4b81-9758-61d88fea24e2)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
 
        
